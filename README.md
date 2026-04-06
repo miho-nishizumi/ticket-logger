@@ -1,7 +1,7 @@
 # ticket-logger
 A terminal based script for making ticket logging faster.
 
-
+Use the .bat in Windows 10/11 and the .sh in Linux terminal emulators.
 
 # Features
 
