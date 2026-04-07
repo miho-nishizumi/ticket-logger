@@ -1,14 +1,12 @@
 # ticket-logger
-A terminal based script for making ticket logging faster.
+# Operation One Ticket Generator
 
-Use the .bat in Windows 10/11 and the .sh in Linux terminal emulators.
+This is a simple tool for game mods to make disciplinary tickets and admin commands without having to type everything out manually. 
 
-# Features
+### Features
 
- - Easy ticket automation with concise code
- - Ability to choose a time if a ban is temporary
- - Built-in command support for an existing ban system
- - Low resourse usage
- - No bloated graphics, just simple readable text in the command line
+* **Works on everything**: Includes `.sh` for Linux/Mac and `.bat` for Windows.
+* **Auto-Perms**: Automatically sets permanent bans for cheating or cheating servers.
+* **Command Generator**: Spits out a ready-to-use `ban/` command for the Roblox console.
 
 # Feel free to make forks of this!
