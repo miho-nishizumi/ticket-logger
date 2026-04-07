@@ -1,5 +1,4 @@
 # ticket-logger
-# Operation One Ticket Generator
 
 This is a simple tool for game mods to make disciplinary tickets and admin commands without having to type everything out manually. 
 
